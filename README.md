@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning React Native animations
 
 ### 📈 GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoviscencio&langs_count=8&theme=github_dark&layout=compact)]()
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoviscencio&langs_count=8&theme=github_dark&layout=compact&hide_border=true">
+</p>
 
 <!---
 eduardoviscencio/eduardoviscencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
