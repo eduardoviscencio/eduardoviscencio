@@ -1,8 +1,8 @@
 ### ⭐ About me
 - 👋 Hi, I’m `@eduardoviscencio`
 - 👀 I’m interested in web and mobile development
-- 🏗 I’m currently working on frontend projects with React and React Native
-- 🌱 I’m currently learning React Native animations
+- 🏗 I’m currently working on frontend projects with React, Electron and Flutter
+- 🌱 I’m currently learning Flutter to create cross-platform apps
 
 ### 📈 GitHub stats
 <p align="left">
