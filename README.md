@@ -7,7 +7,7 @@
 
 ### 📈 GitHub stats
 
-![](https://github.com/eduardoviscencio/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/eduardoviscencio/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <!---
 eduardoviscencio/eduardoviscencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
