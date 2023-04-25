@@ -1,9 +1,9 @@
 ### ⭐ About me
 
 - 👋 Hi, I’m `Eduardo Viscencio`
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web (frontend and backend) and mobile development
 - 🏗 I’m currently working on frontend projects with React, Electron and Flutter
-- 🌱 I’m currently learning Flutter to create cross-platform apps
+- 🌱 I’m learning Flutter animations, and 3D concepts to create interactive websites
 
 ### 📈 GitHub stats
 
